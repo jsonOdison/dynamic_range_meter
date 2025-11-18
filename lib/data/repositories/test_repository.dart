@@ -1,5 +1,4 @@
 import '../api_client.dart';
-import '../dtos/test_case_dto.dart';
 import '../../domain/models/test_case.dart';
 
 class TestRepository {
